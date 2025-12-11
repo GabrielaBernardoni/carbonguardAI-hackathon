@@ -3,7 +3,7 @@
 > **Projeto desenvolvido durante o Hackathon Lab.AI** 🚀
 > *Auditoria Forense de Créditos de Carbono via Satélite e IA.*
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://SEU-LINK-AQUI.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://carbonguardai-hackathon.streamlit.app/)
 
 ## 📄 Sobre o Projeto
 O **CarbonGuard AI** é uma solução tecnológica criada para o **Hackathon Lab.AI** com o objetivo de combater fraudes no mercado de carbono.
