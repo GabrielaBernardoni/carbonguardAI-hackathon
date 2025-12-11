@@ -1,0 +1,6 @@
+streamlit
+pandas
+groq
+numpy
+streamlit-folium
+folium
